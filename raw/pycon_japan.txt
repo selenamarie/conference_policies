@@ -1,0 +1,13 @@
+Anti-harassment policy
+
+PyCon JP 2011 is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, race, religion, or width of indentation. We do not tolerate harassment of conference participants in any form.
+
+Participants asked to stop any harassing behavior are expected to comply immediately.
+
+If a participant engages in harassing behavior, the conference organizers may take any action they deem appropriate, including warning the offender or expulsion from the conference with no refund. If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff (identified by black badge with "Staff" label) immediately.
+
+Conference staff will be happy to help participants contact venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
+
+We expect participants to follow these rules at all conference venues and conference-related social events.
+
+This policy is licensed under the Creative Commons Zero license. This policy is based on several other policies, including the Ohio LinuxFest anti-harassment policy.

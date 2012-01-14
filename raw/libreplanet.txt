@@ -1,0 +1,19 @@
+The FSF is dedicated to providing a harassment-free LibrePlanet experience for everyone.
+
+We do not tolerate harassment of conference participants in any form. Offensive or graphic sexual language and imagery is not appropriate for any conference venue, including talks.
+
+Conference participants violating these rules may be sanctioned or expelled from the conference at the discretion of the conference organizers.
+
+Harassment includes offensive verbal comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
+
+Participants asked to stop any harassing behavior are expected to comply immediately.
+
+If a participant engages in harassing behavior, the conference organizers may take any action they deem appropriate, including warning the offender or expulsion from the conference.
+
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of FSF staff immediately. FSF staff are available in every conference track and at the information desk throughout the conference.
+
+Conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference.
+
+We value your attendance.
+---
+This policy is based on several other policies, including the OLF anti-harassment policy, written by Esther Filderman and Beth Lynn Eicher, and the Con Anti-Harassment Project. Mary Gardiner, Valerie Aurora, Sarah Smith, and Donna Benjamin generalized the policies and added supporting material. Many members of LinuxChix, Geek Feminism and other groups contributed to this work.

@@ -1,0 +1,19 @@
+PyCon Au is an inclusive event which invites diverse groups of people in ICT - regardless of age, race, gender, sexuality, or religion - to discuss and learn about all things Python in an environment of mutual respect, tolerance and encouragement.
+
+PyCon Au strives to provide a fun, educational and friendly atmosphere within their conferences, and have high expectations for their speakers and attendees so that all can enjoy their experience. PyCon Au will not tolerate any intimidation, harassment, and/or any abusive, discriminatory behaviour by any speakers or attendees. The use of inappropriate, derogatory, and/or offensive material during presentations and lightning talks is strictly prohibited and will lead to disciplinary actions, up to and including dismissal from the presentation and exclusion from future conferences.
+
+All presentation material should be suitable for people aged 12 and above. No exceptions.
+
+If someone hears or sees a speaker/attendee displaying the aforementioned behaviour, they should contact a PyCon Au Organizer directly. All complaints made to PyCon Au will remain confidential, be taken seriously, investigated, and dealt with appropriately.
+
+PyCon Au Organizers may take any or all of the following measures:
+
+The alleged offender may be told to stop/modify their behaviour appropriately and a warning will be issued
+
+If the behaviour continues, the alleged offender may be asked to immediately leave the venue and/or will be prohibited from continuing to attend PyCon Au (without reimbursement)
+
+The alleged offender may be warned that enforcement action may be taken if the behaviour continues
+
+The incident may be reported to the Australian Police
+
+PyCon Au is aware of the responsibility required to ensure a successful and productive event. If an incident occurs, PyCon Au will formally apologize to those offended. A record of the incident will be kept and future measures will be taken to ensure that it does not happen again.

@@ -1,0 +1,24 @@
+This is a statement of LCA2011's principles. LCA2011 is dedicated to providing a harassment-free conference experience for everyone. We do not tolerate harassment of conference participants in any form. Offensive sexual language and imagery is not appropriate for any conference venue. Conference participants behaving in ways that run counter to LCA2011's principles risk being expelled from the conference without a refund at the discretion of the conference organisers. Our anti-harassment policy can be found at: http://lca2011.linux.org.au/about/harassment.
+
+Harassment includes:
+
+* offensive verbal comments related to gender, sexual orientation or other personal characteristics;
+* sexual images in public spaces;
+* deliberate intimidation, stalking, following, harassing photography or recording;
+* inappropriate physical contact; and unwelcome sexual attention.
+
+Harassment includes such behaviour when occurring at LCA2011 venues, social functions, or otherwise connected or directly arising out of activities of LCA2011. If someone asks you to stop harassing behaviour, your business with them is done, and you should leave them alone.
+
+If a participant engages in harassing behavior, the conference organizers may try various remedies such as warnings or requests to desist if appropriate; with the final recourse being expulsion from the conference with no refund. If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff immediately. Conference staff can be identified by their special LCA2011 organiser t-shirts and badges, and have received training on how to receive your report.
+
+Conference staff will be happy to help participants contact hotel/venue security or local law enforcement if that is asked for; or to provide escorts, or to otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
+
+* General email for conference organisers: contact@lca2011.linux.org.au
+* LCA 2011 Duty Officer: 07 3103 7998
+* QUT Security. Emergency: 07 3138 8888. Freecall: 1800 065 585
+* Queensland Police: 131 444 (non-emergency) / 000 (emergency)
+* Sexual Assault Helpline: 07 3636 5207 / 1800 010 120
+* Royal Brisbane & Womens Hospital Switchboard: 07 3636 8111 / Medical emergency: 000
+* Yellow Cabs: 131 924 / Black & White Cabs: 133 222
+
+The Linux.conf.au 2011 anti-harassment policy is based on the creative commons licensed anti-harassment policy template. As such, it may also be used by others as a template or guideline under a Creative Commons Zero license.

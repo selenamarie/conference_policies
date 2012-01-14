@@ -1,0 +1,27 @@
+The Ohio LinuxFest is dedicated to making Open Source open to everyone and the conference a safe place for all. We do not discriminate based on ethnic background, religion, gender, sexuality, body shape, disability, or even what operating system you use. We do not tolerate harassment based on discrimination.
+
+We insist that all participants and attendees adhere to a civil demeanor at all times. This includes refraining from inappropriate language, comments and behaviour. This includes, but is not limited to: sexually oriented language and images, unwanted attention, threatening behaviour, physical assault.
+
+We refuse to work with businesses who openly tolerate discrimination or harassment of others, or display inappropriate images or language. Sponsors in our Expo are also held to this standard.
+
+Participants, sponsors or attendees who are being harassed, intimidated, or are dealing with otherwise improper behaviour are encouraged to report it immediately to an official Ohio LinuxFest staff member. Staff members are identified by the blue colored event shirts, and are trained to contact the appropriate people to handle the situation quickly.
+
+Alternate methods of reporting issues include:
+
+* email olf-security@ohiolinux.org
+* call our toll free number (888-OHLINUX(645-4689)) and select option 8.
+* if the problem occurred in the Greater Columbus Convention Center, you may reach their security staff by calling HELP (4357) on any house phone
+* Call the local Columbus police department at 614-645-4545
+
+Anyone who is found to be in violation of this policy may be handled in any one or more of these methods, depending on the offense:
+* warning
+* expulsion (see below)
+* contacting of the police
+
+Actions stronger than a warning will be taken at the discretion of two or more of a) the Security Chair, b) The Conference Chair, c) A member of the Ohio LinuxFest Board of Directors.
+
+False reports will be treated harshly. Personal disputes should be handled privately, unless actual harassment occurs.
+ 
+The Ohio LinuxFest reserves the right to remove any participant, sponsor or attendee at any time for any reason.
+ 
+This policy covers all organized events for the Ohio LinuxFest, including social events.
